@@ -1,0 +1,19 @@
+#contenedor {
+	display: inline-grid;
+	background-color: #171814
+
+}
+ 
+ h6{
+ 	color: red;
+ }
+
+#bt_calc{
+
+	margin: 5px
+}
+
+#valor2{
+
+	margin: 8px
+}
